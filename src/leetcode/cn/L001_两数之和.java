@@ -1,7 +1,5 @@
 package leetcode.cn;
 
-import java.util.Scanner;
-
 public class L001_两数之和 {
     public static void main(String[] args) {
         int[] nums = {2, 7, 11, 15};
